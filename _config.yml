@@ -29,7 +29,7 @@ search: true
 nightMode: true
 
 # 网站地图
-url：“ http://www.travelfree.top ”  
+gems:  
   - jekyll-sitemap
 # Comments 评论功能
 comments:
